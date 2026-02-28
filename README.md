@@ -29,3 +29,4 @@ The core stays. Swap the shell — keep your data, your keys, your self.
 
 Concept. Open for collaboration.  
 Концепт. Открыт для сотрудничества.
+![Concept](core-concept.png)
